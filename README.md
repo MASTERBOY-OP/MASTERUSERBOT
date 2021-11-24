@@ -1,15 +1,15 @@
 👇👇DEPLOY👇👇
 
-[LEGENDBOT](https://github.com/LEGEND-OS/LEGENDBOT)
+[MASTERBOT](https://github.com/MASTER-OS/MASTERBOT)
   <summary> <h2>Generate String Session</h2> </summary>
 
 - Termux
     - Install git package
            `pkg install git`
     - Clone this repository.
-           `git clone https://github.com/LEGEND-OS/LEGENDBOT.git`
+           `git clone https://github.com/MASTER-OS/MASTERBOT.git`
     - Then Do
-           `cd LEGENDBOT`
+           `cd MASTERBOT`
     - Run String Generator By
            `bash string.sh`
     - Then Fill The Required Details.
@@ -18,7 +18,7 @@
 - Repl Run
 
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@DEVILBOTOP/MASTERBOT#main.py) 
 
     - Click On Generate string
     - Then Click On Green Play Button.
@@ -39,7 +39,7 @@
     - Any Other VPS.
     - No support for Termux Yet.
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGEND-OS/LEGENDUSERBOT/)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MASTER-OS/MASTERBOT/)
 
 
 ## Mandatory Vars
@@ -49,7 +49,7 @@
     - `APP_ID`:   You can get this value from [here](https://my.telegram.org)
     - `API_HASH`:   You can get this value from [here](https://my.telegram.org)
     - `ENV`:   `ANYTHING`
-    - `LEGEND_STRING`:   You can get this value from running `python3 string_session.py` in termux after cloning this repo. Or just using [repl run](https://repl.it/@itzglegendvv/LEGENDBOT#main.py)
+    - `MASTER_STRING`:   You can get this value from running `python3 string_session.py` in termux after cloning this repo. Or just using [repl run](https://replit.com/@DEVILBOTOP/MASTERBOT#main.py)
     - `LOG_GROUP`:   Make a Channel Or Group and get it's id.
     - `DATABASE_URL`:   Make a database on elephant sql and paste the url.
     - `DB_URI`:   Same as `DATABASE_URL`
@@ -64,16 +64,16 @@
 
 ```
 Get help regarding setting up 
-your LEGENDBOT in our official 
+your MASTERBOT in our official 
 support Group and get updates
 notifications in Update Channel.
 ```
 
-<a href="https://t.me/Its_LegendBoy"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/DEVILBOY_OP "><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
 
-<a href="https://t.me/Its_LegendBoy"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/DEVILBOY_OP"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Its_LegendBoy)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/DEVILBOY_OP)
 
 </details>
 
@@ -84,7 +84,7 @@ notifications in Update Channel.
 
 Copyright (C) 2021 LEGEND-OS
 
-Poject [LEGENDBOT](https://github.com/LEGEND-OS/LEGENDBOT) is free software: you can redistribute it and/or modify
+Poject [MASTERBOT](https://github.com/MASTER-OS/MASTERBOT) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
@@ -102,7 +102,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 <details>
   <summary> <h4>• Credits 🏅 •</h4> </summary>
 
-• [LEGEND](https://github.com/LEGEND-OS):OWNER
+• [MASTER](https://github.com/MASTER-OS):OWNER
  
 </details>
 
